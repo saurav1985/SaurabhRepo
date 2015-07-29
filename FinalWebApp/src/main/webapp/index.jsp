@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Bhai!</h2>
+<h2>Om Surya Devaya namaha !!</h2>
 </body>
 </html>
