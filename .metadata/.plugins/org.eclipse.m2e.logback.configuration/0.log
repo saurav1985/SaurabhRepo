@@ -1,0 +1,17 @@
+2015-07-30 00:07:38,591 [Worker-6] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2015-07-30 00:07:38,740 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2015-07-30 00:08:28,846 [Worker-0] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2015-07-30 00:08:29,574 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/maven-metadata.xml
+2015-07-30 00:08:29,580 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/maven-metadata.xml
+2015-07-30 00:08:29,991 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\SaurabhProject\SaurabhRepo\FinalWebApp\pom.xml
+2015-07-30 00:08:33,442 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.saurav.devops:FinalWebApp:0.0.1-SNAPSHOT @ E:\SaurabhProject\SaurabhRepo\FinalWebApp\pom.xml.
+2015-07-30 00:08:34,413 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FinalWebApp/src/main/java
+2015-07-30 00:08:34,414 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FinalWebApp/src/main/resources
+2015-07-30 00:08:34,414 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.saurav.devops:FinalWebApp:0.0.1-SNAPSHOT @ E:\SaurabhProject\SaurabhRepo\FinalWebApp\pom.xml.
+2015-07-30 00:08:34,415 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FinalWebApp/src/test/java
+2015-07-30 00:08:35,141 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 5 sec
+2015-07-30 00:08:35,917 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.saurav.devops:FinalWebApp:0.0.1-SNAPSHOT @ E:\SaurabhProject\SaurabhRepo\FinalWebApp\pom.xml.
+2015-07-30 00:08:36,047 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-30 00:08:36,051 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-07-30 00:08:36,055 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-30 00:08:36,055 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SaurabhProject\SaurabhRepo\FinalWebApp\src\test\resources
